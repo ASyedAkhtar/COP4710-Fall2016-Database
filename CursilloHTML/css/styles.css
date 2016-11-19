@@ -12,5 +12,15 @@ p {
     color: gold;
 }
 
-
-
+.footer {
+    padding: 15px 0px 10px 0px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #fff;
+    background-color: #222;
+    border-color: #080808;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
